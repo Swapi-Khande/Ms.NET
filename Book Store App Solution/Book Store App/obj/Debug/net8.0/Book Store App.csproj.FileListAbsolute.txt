@@ -1,0 +1,31 @@
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\appsettings.Development.json
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\appsettings.json
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\Book Store App.staticwebassets.runtime.json
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\Book Store App.exe
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\Book Store App.deps.json
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\Book Store App.runtimeconfig.json
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\Book Store App.dll
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\Book Store App.pdb
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.AssemblyInfoInputs.cache
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.AssemblyInfo.cs
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.csproj.CoreCompileInputs.cache
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.MvcApplicationPartsAssemblyInfo.cache
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.RazorAssemblyInfo.cache
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.RazorAssemblyInfo.cs
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.sourcelink.json
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\staticwebassets.build.json
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\staticwebassets.development.json
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\staticwebassets\msbuild.Book Store App.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\staticwebassets\msbuild.build.Book Store App.props
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book Store App.props
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book Store App.props
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\staticwebassets.pack.json
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\scopedcss\bundle\Book Store App.styles.css
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\scopedcss\projectbundle\Book Store App.bundle.scp.css
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.dll
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\refint\Book Store App.dll
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.pdb
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.genruntimeconfig.cache
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\ref\Book Store App.dll
