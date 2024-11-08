@@ -14,9 +14,37 @@ html {
 
 html {
   position: relative;
-  min-height: 100%;
 }
 
 body {
   margin-bottom: 60px;
 }
+
+html, body{
+    height:100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%; /* Ensure the body and html fill the entire viewport */
+    overflow-x: hidden; /* Prevent horizontal scrollbars */
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Make the wrapper at least the height of the viewport */
+}
+
+.container {
+    flex-grow: 1; /* Allow content to grow and fill available space */
+    padding: 20px;
+    overflow-y: auto; /* Enable vertical scrolling if content overflows */
+    overflow-x: hidden; /* Prevent horizontal scrolling inside content */
+}
+
