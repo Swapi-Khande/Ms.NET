@@ -16,5 +16,25 @@ namespace Book_Store_App.Controllers
             List<Category> categoriesList = _db.Categories.ToList();
             return View(categoriesList);
         }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Create(Category ct)
+        {
+            if (ct.Name == ct.DisplayOrder.ToString())
+            {
+                ModelState.AddModelError("name", "Display order and name can not be same.");
+            }
+            if (ModelState.IsValid)
+            {
+                _db.Categories.Add(ct);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
     }
 }
