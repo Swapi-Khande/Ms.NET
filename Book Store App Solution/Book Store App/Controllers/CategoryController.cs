@@ -36,5 +36,54 @@ namespace Book_Store_App.Controllers
             }
             return View();
         }
+        public IActionResult Edit(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+            Category? dataFromDb = _db.Categories.Find(id);
+            if (dataFromDb == null)
+            {
+                return NotFound();
+            }
+            return View(dataFromDb);
+        }
+        [HttpPost]
+        public IActionResult Edit(Category ct)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Categories.Update(ct);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+        public IActionResult Delete(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+            Category? dataFromDb = _db.Categories.Find(id);
+            if (dataFromDb == null)
+            {
+                return NotFound();
+            }
+            return View(dataFromDb);
+        }
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeletePOST(int? id)
+        {
+            Category? dataFromDb = _db.Categories.Find(id);
+            if (dataFromDb == null)
+            {
+                return NotFound();
+            }
+            _db.Categories.Remove(dataFromDb);
+            _db.SaveChanges();
+            return RedirectToAction("Index");
+        }
     }
 }

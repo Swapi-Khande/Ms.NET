@@ -3,24 +3,20 @@
 <form method="post">
     <div class="border p-3 mt-4">
         <div class="row pb-2">
-            <h2 class="text-primary-emphasis">Create Category</h2>
-            <hr/>
+            <h2 class="text-primary-emphasis">Delete Category</h2>
+            <hr />
         </div>
-        <div asp-validation-summary="All"></div>
         <div class="row mb-3">
             <label asp-for="Name" class="p-0 mb-2 text-primary-emphasis"></label>
-            <input asp-for="Name" class="form-control" />
-            <span asp-validation-for="Name" class="text-danger"></span>
+            <input asp-for="Name" class="form-control" disabled/>
         </div>
         <div class="row mb-3">
             <label asp-for="DisplayOrder" class="p-0 mb-2 text-primary-emphasis">Display Order</label>
-            <input asp-for="DisplayOrder" class="form-control" />
-            <span asp-validation-for="DisplayOrder" class="text-danger"></span>
-
+            <input asp-for="DisplayOrder" class="form-control" disabled/>
         </div>
         <div class="row">
             <div class="col-6 col-md-3">
-                <button type="submit" class="btn btn btn-primary form-control">Create</button>
+                <button type="submit" class="btn btn btn-danger form-control">Delete</button>
             </div>
             <div class="col-6 col-md-3">
                 <a asp-controller="Category" asp-action="Index" class="btn btn btn btn-outline-primary border form-control">Back To List</a>
@@ -29,7 +25,7 @@
     </div>
 </form>
 
-@section Scripts{
+@section Scripts {
     @{
         <partial name="_ValidationScriptsPartial" />
     }
