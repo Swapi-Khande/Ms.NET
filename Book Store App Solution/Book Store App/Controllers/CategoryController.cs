@@ -27,11 +27,13 @@ namespace Book_Store_App.Controllers
             if (ct.Name == ct.DisplayOrder.ToString())
             {
                 ModelState.AddModelError("name", "Display order and name can not be same.");
+                TempData["error"] = "Display order and name can not be same. !!";
             }
             if (ModelState.IsValid)
             {
                 _db.Categories.Add(ct);
                 _db.SaveChanges();
+                TempData["success"] = "Category added successfully !!";
                 return RedirectToAction("Index");
             }
             return View();
@@ -56,6 +58,7 @@ namespace Book_Store_App.Controllers
             {
                 _db.Categories.Update(ct);
                 _db.SaveChanges();
+                TempData["success"] = "Category updated successfully !!";
                 return RedirectToAction("Index");
             }
             return View();
@@ -83,6 +86,7 @@ namespace Book_Store_App.Controllers
             }
             _db.Categories.Remove(dataFromDb);
             _db.SaveChanges();
+            TempData["success"] = "Category deleted successfully !!";
             return RedirectToAction("Index");
         }
     }
