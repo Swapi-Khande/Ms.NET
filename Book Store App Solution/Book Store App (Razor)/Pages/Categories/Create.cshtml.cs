@@ -21,6 +21,7 @@ namespace Book_Store_App__Razor_.Pages.Categories
         {
             _db.Categories.Add(Category);
             _db.SaveChanges();
+            TempData["success"] = "Category created successfully !!";
             return RedirectToPage("Index");
         }
     }
