@@ -17,10 +17,6 @@ namespace App.DataAccess.Repository
         {
             _db = db;
         }
-        public void SaveToDb()
-        {
-            _db.SaveChanges();
-        }
 
         public void Update(Category category)
         {
