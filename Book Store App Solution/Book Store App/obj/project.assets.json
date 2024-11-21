@@ -2741,6 +2741,42 @@
             "rid": "win"
           }
         }
+      },
+      "App.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "App.Models": "1.0.0",
+          "App.Utility": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
+        },
+        "compile": {
+          "bin/placeholder/App.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.DataAccess.dll": {}
+        }
+      },
+      "App.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/App.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Models.dll": {}
+        }
+      },
+      "App.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/App.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Utility.dll": {}
+        }
       }
     }
   },
@@ -7704,10 +7740,27 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "App.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../App.DataAccess/App.DataAccess.csproj",
+      "msbuildProject": "../App.DataAccess/App.DataAccess.csproj"
+    },
+    "App.Models/1.0.0": {
+      "type": "project",
+      "path": "../App.Models/App.Models.csproj",
+      "msbuildProject": "../App.Models/App.Models.csproj"
+    },
+    "App.Utility/1.0.0": {
+      "type": "project",
+      "path": "../App.Utility/App.Utility.csproj",
+      "msbuildProject": "../App.Utility/App.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "App.DataAccess >= 1.0.0",
+      "App.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.10",
@@ -7741,7 +7794,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\App.DataAccess\\App.DataAccess.csproj": {
+              "projectPath": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\App.DataAccess\\App.DataAccess.csproj"
+            },
+            "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\App.Models\\App.Models.csproj": {
+              "projectPath": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\App.Models\\App.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

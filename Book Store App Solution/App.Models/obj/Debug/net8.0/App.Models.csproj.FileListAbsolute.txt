@@ -1,0 +1,12 @@
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\bin\Debug\net8.0\App.Models.deps.json
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\bin\Debug\net8.0\App.Models.dll
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\bin\Debug\net8.0\App.Models.pdb
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\App.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\App.Models.AssemblyInfoInputs.cache
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\App.Models.AssemblyInfo.cs
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\App.Models.csproj.CoreCompileInputs.cache
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\App.Models.sourcelink.json
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\App.Models.dll
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\refint\App.Models.dll
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\App.Models.pdb
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\ref\App.Models.dll
