@@ -1,6 +1,7 @@
 ﻿using App.DataAccess.Repository.IRepository;
 using App.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace Book_Store_App.Areas.Admin.Controllers
 {
@@ -19,16 +20,20 @@ namespace Book_Store_App.Areas.Admin.Controllers
             }
             public IActionResult Index()
             {
-                //List<Product> categoriesList = _db.Categories.ToList();
-                //List<Product> categoriesList = _categoryRepo.GetAll().ToList();
-                List<Product> categoriesList = _unitOfWork.Product.GetAll().ToList();
-
-                return View(categoriesList);
+                List<Product> productsList = _unitOfWork.Product.GetAll().ToList();
+                return View(productsList);
             }
 
             public IActionResult Create()
             {
-                return View();
+                IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(i => new SelectListItem
+                {
+                    Text = i.Name,
+                    Value = i.Id.ToString()
+                });
+            //ViewBag.CategoryList = CategoryList;
+            ViewData["CategoryList"] = CategoryList;
+            return View();
             }
             [HttpPost]
             public IActionResult Create(Product ct)
