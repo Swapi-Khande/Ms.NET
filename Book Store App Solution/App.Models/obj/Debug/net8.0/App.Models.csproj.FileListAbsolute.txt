@@ -10,3 +10,4 @@ E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\App.M
 E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\refint\App.Models.dll
 E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\App.Models.pdb
 E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\ref\App.Models.dll
+E:\My Learnings\Ms.NET\Book Store App Solution\App.Models\obj\Debug\net8.0\App.Models.csproj.AssemblyReference.cache

@@ -1,5 +1,6 @@
 ﻿using App.DataAccess.Repository.IRepository;
 using App.Models;
+using App.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -26,27 +27,39 @@ namespace Book_Store_App.Areas.Admin.Controllers
 
             public IActionResult Create()
             {
-                IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(i => new SelectListItem
+                //ViewBag.CategoryList = CategoryList;
+                //ViewData["CategoryList"] = CategoryList;
+                ProductVM productVm = new ProductVM()
                 {
-                    Text = i.Name,
-                    Value = i.Id.ToString()
-                });
-            //ViewBag.CategoryList = CategoryList;
-            ViewData["CategoryList"] = CategoryList;
-            return View();
+                    CategoryList = _unitOfWork.Category.GetAll().Select(i => new SelectListItem
+                    {
+                        Text = i.Name,
+                        Value = i.Id.ToString()
+                    }),
+                    Product = new Product()
+                };
+                    return View(productVm);
             }
             [HttpPost]
-            public IActionResult Create(Product ct)
+            public IActionResult Create(ProductVM ct)
             {
                 if (ModelState.IsValid)
                 {
-                    _unitOfWork.Product.Add(ct);
+                    _unitOfWork.Product.Add(ct.Product);
                     _unitOfWork.SaveToDb();
 
                     TempData["success"] = "Product added successfully !!";
                     return RedirectToAction("Index");
                 }
-                return View();
+                else
+                {
+                    ct.CategoryList = _unitOfWork.Category.GetAll().Select(i => new SelectListItem
+                    {
+                        Text = i.Name,
+                        Value = i.Id.ToString()
+                    });
+                    return View(ct);
+                }
             }
             public IActionResult Edit(int? id)
             {
