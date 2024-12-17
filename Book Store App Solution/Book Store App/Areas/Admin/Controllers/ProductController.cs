@@ -25,7 +25,7 @@ namespace Book_Store_App.Areas.Admin.Controllers
                 return View(productsList);
             }
 
-            public IActionResult Create()
+            public IActionResult Upsert(int? id)
             {
                 //ViewBag.CategoryList = CategoryList;
                 //ViewData["CategoryList"] = CategoryList;
@@ -38,10 +38,20 @@ namespace Book_Store_App.Areas.Admin.Controllers
                     }),
                     Product = new Product()
                 };
+                if( id==null || id == 0)
+                {
+                    //CREATE LOGIC
                     return View(productVm);
-            }
+                }
+                else
+                {
+                    //UPDATE LOGIC
+                    productVm.Product = _unitOfWork.Product.Get(i => i.Id == id);
+                    return View(productVm);
+                }
+             }
             [HttpPost]
-            public IActionResult Create(ProductVM ct)
+            public IActionResult Upsert(ProductVM ct, IFormFile? file)
             {
                 if (ModelState.IsValid)
                 {
