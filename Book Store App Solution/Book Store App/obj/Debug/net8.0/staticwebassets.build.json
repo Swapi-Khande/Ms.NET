@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ipBhkQ8kY0PxxSzDCn4T/qXSS3x9yYxhJdD2UaDoADg=",
+  "Hash": "InwrdJf6uTo/YmrAUMKqIe6diQ7le1vB+MNDY5ddR2c=",
   "Source": "Book Store App",
   "BasePath": "_content/Book Store App",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\514a5da4-ab8d-4e71-8269-422e6e798282.jpg",
+      "SourceId": "Book Store App",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\",
+      "BasePath": "_content/Book Store App",
+      "RelativePath": "images/product/514a5da4-ab8d-4e71-8269-422e6e798282.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\514a5da4-ab8d-4e71-8269-422e6e798282.jpg"
     },
     {
       "Identity": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\js\\site.js",

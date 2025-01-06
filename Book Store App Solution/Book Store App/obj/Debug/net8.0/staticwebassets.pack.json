@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\514a5da4-ab8d-4e71-8269-422e6e798282.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\514a5da4-ab8d-4e71-8269-422e6e798282.jpg"
+    },
+    {
       "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

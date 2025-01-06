@@ -263,3 +263,6 @@ E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\A
 E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\App.DataAccess.pdb
 E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\App.Models.pdb
 E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\App.Utility.pdb
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\My Learnings\Ms.NET\Book Store App Solution\Book Store App\obj\Debug\net8.0\Book Store App.MvcApplicationPartsAssemblyInfo.cs

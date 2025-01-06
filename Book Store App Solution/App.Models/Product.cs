@@ -43,6 +43,7 @@ namespace App.Models
         public double Price100 { get; set; }
         public int CategoryID { get; set; }
         [ForeignKey("CategoryID")]
+        [ValidateNever]
         public Category Category { get; set; }
         [ValidateNever]
         public String ImageUrl { get; set; }

@@ -12,13 +12,15 @@ namespace Book_Store_App.Areas.Admin.Controllers
             //private readonly ApplicationDbContext _db;
             //private readonly ICategoryRepository _categoryRepo;
             private readonly IUnitOfWork _unitOfWork;
+            private readonly IWebHostEnvironment _webHostEnvironment;
 
-            public ProductController(IUnitOfWork unitOfWork)
+        public ProductController(IUnitOfWork unitOfWork, IWebHostEnvironment webHostEnvironment)
             {
                 //_db = db;
                 //_categoryRepo = db;
                 _unitOfWork = unitOfWork;
-            }
+                _webHostEnvironment = webHostEnvironment;
+        }
             public IActionResult Index()
             {
                 List<Product> productsList = _unitOfWork.Product.GetAll().ToList();
@@ -55,10 +57,41 @@ namespace Book_Store_App.Areas.Admin.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    _unitOfWork.Product.Add(ct.Product);
-                    _unitOfWork.SaveToDb();
+                    string wwwRootPath = _webHostEnvironment.WebRootPath;
+                    if (file != null)
+                    {
+                        string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
+                        string productPath = Path.Combine(wwwRootPath, @"images\product");
 
-                    TempData["success"] = "Product added successfully !!";
+                        if (!string.IsNullOrEmpty(ct.Product.ImageUrl))
+                        {
+                            //Delete old image
+                            var oldImagePath = Path.Combine(wwwRootPath, ct.Product.ImageUrl.TrimStart('\\'));
+
+                            if (System.IO.File.Exists(oldImagePath))
+                            {
+                                System.IO.File.Delete(oldImagePath);
+                            }
+                        }
+
+                        using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create))
+                        {
+                            file.CopyTo(fileStream);
+                        }
+
+                        ct.Product.ImageUrl = @"\images\product\" + fileName;
+                    }
+
+                    if (ct.Product.Id == 0)
+                    {
+                        _unitOfWork.Product.Add(ct.Product);
+                    }
+                    else
+                    {
+                         _unitOfWork.Product.Update(ct.Product);
+                    }
+
+                    _unitOfWork.SaveToDb();
                     return RedirectToAction("Index");
                 }
                 else
