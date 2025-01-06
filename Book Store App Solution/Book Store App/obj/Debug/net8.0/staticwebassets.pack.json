@@ -13,8 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\015824b6-f948-426b-a458-e14df52dc099.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\015824b6-f948-426b-a458-e14df52dc099.jpg"
+    },
+    {
+      "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\274204e0-ca03-4fe3-99aa-528a1a75047d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\274204e0-ca03-4fe3-99aa-528a1a75047d.jpg"
+    },
+    {
+      "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\2c44c03e-906a-4a9a-b9b0-5b06b5057202.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2c44c03e-906a-4a9a-b9b0-5b06b5057202.jpg"
+    },
+    {
+      "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\377f1f29-01d2-4641-a183-8262f66bf46f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\377f1f29-01d2-4641-a183-8262f66bf46f.jpg"
+    },
+    {
       "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\514a5da4-ab8d-4e71-8269-422e6e798282.jpg",
       "PackagePath": "staticwebassets\\images\\product\\514a5da4-ab8d-4e71-8269-422e6e798282.jpg"
+    },
+    {
+      "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\9912d968-f331-4b83-914c-b37b834a2b7a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9912d968-f331-4b83-914c-b37b834a2b7a.jpg"
+    },
+    {
+      "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\d539e520-bf74-4f5d-a3e6-a0c530db6989.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d539e520-bf74-4f5d-a3e6-a0c530db6989.jpg"
     },
     {
       "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\js\\site.js",

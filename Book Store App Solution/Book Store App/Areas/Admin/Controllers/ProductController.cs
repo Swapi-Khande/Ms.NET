@@ -23,7 +23,7 @@ namespace Book_Store_App.Areas.Admin.Controllers
         }
             public IActionResult Index()
             {
-                List<Product> productsList = _unitOfWork.Product.GetAll().ToList();
+                List<Product> productsList = _unitOfWork.Product.GetAll(includeProps: "Category").ToList();
                 return View(productsList);
             }
 
