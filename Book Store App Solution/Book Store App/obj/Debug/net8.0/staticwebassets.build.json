@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kLE4kt0yD/PmgXJ++r9+UG5IfoXpM/v40MSA9AiG80Y=",
+  "Hash": "9v2HwPZHFZiWoqJDsQr7XkI0+/yP3BtqmoLgAazdi2I=",
   "Source": "Book Store App",
   "BasePath": "_content/Book Store App",
   "Mode": "Default",
@@ -167,25 +167,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\377f1f29-01d2-4641-a183-8262f66bf46f.jpg"
-    },
-    {
-      "Identity": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\514a5da4-ab8d-4e71-8269-422e6e798282.jpg",
-      "SourceId": "Book Store App",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\",
-      "BasePath": "_content/Book Store App",
-      "RelativePath": "images/product/514a5da4-ab8d-4e71-8269-422e6e798282.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\514a5da4-ab8d-4e71-8269-422e6e798282.jpg"
     },
     {
       "Identity": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\images\\product\\9912d968-f331-4b83-914c-b37b834a2b7a.jpg",

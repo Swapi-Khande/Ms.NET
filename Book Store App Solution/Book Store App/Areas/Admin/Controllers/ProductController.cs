@@ -130,19 +130,19 @@ namespace Book_Store_App.Areas.Admin.Controllers
                 }
                 return View();
             }
-            public IActionResult Delete(int? id)
-            {
-                if (id == null || id == 0)
-                {
-                    return NotFound();
-                }
-                Product? dataFromDb = _unitOfWork.Product.Get(u => u.Id == id);
-                if (dataFromDb == null)
-                {
-                    return NotFound();
-                }
-                return View(dataFromDb);
-            }
+            //public IActionResult Delete(int? id)
+            //{
+            //    if (id == null || id == 0)
+            //    {
+            //        return NotFound();
+            //    }
+            //    Product? dataFromDb = _unitOfWork.Product.Get(u => u.Id == id);
+            //    if (dataFromDb == null)
+            //    {
+            //        return NotFound();
+            //    }
+            //    return View(dataFromDb);
+            //}
             [HttpPost, ActionName("Delete")]
             public IActionResult DeletePOST(int? id)
             {
@@ -170,7 +170,7 @@ namespace Book_Store_App.Areas.Admin.Controllers
         }
 
         [HttpDelete]
-        public IActionResult DeleteProduct(int? id)
+        public IActionResult Delete(int? id)
         {
             var productToBeDeleted = _unitOfWork.Product.Get(u => u.Id == id);
 
@@ -185,6 +185,9 @@ namespace Book_Store_App.Areas.Admin.Controllers
             {
                 System.IO.File.Delete(oldImagePath);
             }
+
+            _unitOfWork.Product.Remove(productToBeDeleted);
+            _unitOfWork.SaveToDb();
 
             return Json(new { success = true, message = "Product Deleted Successfully ..." });
         }

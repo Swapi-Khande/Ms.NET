@@ -46,8 +46,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/My Learnings/Ms.NET/Book Store App Solution/Book Store App/Areas/Admin/Views/Product/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+[E:/My Learnings/Ms.NET/Book Store App Solution/Book Store App/Areas/Admin/Views/Product/DeleteABC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZWxldGVBQkMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/My Learnings/Ms.NET/Book Store App Solution/Book Store App/Areas/Admin/Views/Product/Edit.cshtml]
