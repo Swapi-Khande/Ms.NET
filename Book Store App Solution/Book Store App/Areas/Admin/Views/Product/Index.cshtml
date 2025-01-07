@@ -18,23 +18,21 @@
                 <a asp-action="Upsert" class="btn btn-primary"><i class="bi bi-plus-square-dotted mr-2 p-2"></i>Add New Product</a>
             </div>
         </div>
-        <table class="table table-bordered table-striped">
+        <table id="tblData" class="table table-bordered table-striped" style="width:100%">
             <thead>
                 <tr>
                     <th>Product Name</th>
-                    <th>Description</th>
                     <th>ISBN</th>
                     <th>Author</th>
                     <th>Price</th>
                     <th>Category</th>
                 </tr>
             </thead>
-            <tbody>
+            @* <tbody>
                 @foreach (var obj in Model)
                 {
                     <tr>
                         <td>@obj.Title</td>
-                        <td>@obj.Description</td>
                         <td>@obj.ISBN</td>
                         <td>@obj.Author</td>
                         <td>@obj.Price</td>
@@ -51,9 +49,12 @@
                         </td>
                     </tr>
                 }
-            </tbody>
-
+            </tbody> *@
         </table>
     </div>
 </div>
+
+@section Scripts{
+    <script src="~/js/product.js"></script>
+}
 

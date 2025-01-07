@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\images\\product\\d539e520-bf74-4f5d-a3e6-a0c530db6989.jpg"
     },
     {
+      "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

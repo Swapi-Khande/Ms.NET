@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8Xpr8Hs2tlTernrpYMX+gJ4zEiPl8VVaN6SXxtdnZbI=",
+  "Hash": "kLE4kt0yD/PmgXJ++r9+UG5IfoXpM/v40MSA9AiG80Y=",
   "Source": "Book Store App",
   "BasePath": "_content/Book Store App",
   "Mode": "Default",
@@ -224,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\d539e520-bf74-4f5d-a3e6-a0c530db6989.jpg"
+    },
+    {
+      "Identity": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\js\\product.js",
+      "SourceId": "Book Store App",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\",
+      "BasePath": "_content/Book Store App",
+      "RelativePath": "js/product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
       "Identity": "E:\\My Learnings\\Ms.NET\\Book Store App Solution\\Book Store App\\wwwroot\\js\\site.js",

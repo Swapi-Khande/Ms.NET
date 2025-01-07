@@ -159,5 +159,36 @@ namespace Book_Store_App.Areas.Admin.Controllers
                 TempData["success"] = "Product deleted successfully !!";
                 return RedirectToAction("Index");
             }
+
+        #region API CALLS
+
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            List<Product> productsList = _unitOfWork.Product.GetAll(includeProps: "Category").ToList();
+            return Json( new { data = productsList });
         }
+
+        [HttpDelete]
+        public IActionResult DeleteProduct(int? id)
+        {
+            var productToBeDeleted = _unitOfWork.Product.Get(u => u.Id == id);
+
+            if (productToBeDeleted == null)
+            {
+                return Json( new { success = false, message = "Error while deleting ..." });
+            }
+
+            var oldImagePath = Path.Combine(_webHostEnvironment.WebRootPath, productToBeDeleted.ImageUrl.TrimStart('\\'));
+
+            if (System.IO.File.Exists(oldImagePath))
+            {
+                System.IO.File.Delete(oldImagePath);
+            }
+
+            return Json(new { success = true, message = "Product Deleted Successfully ..." });
+        }
+
+        #endregion
+    }
 }
