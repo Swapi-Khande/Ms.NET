@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MicroservicesApp.Services.CouponAPI.props" />
+</Project>

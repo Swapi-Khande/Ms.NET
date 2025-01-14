@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Book Store App Solution/Book Store App (Razor)/obj/Release/net8.0
+/MicroservicesApp/.vs/MicroservicesApp/FileContentIndex
