@@ -1,10 +1,4 @@
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.csproj.AssemblyReference.cache
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.GeneratedMSBuildEditorConfig.editorconfig
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.AssemblyInfoInputs.cache
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.AssemblyInfo.cs
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.csproj.CoreCompileInputs.cache
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cache
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.sourcelink.json
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\MicroservicesApp.Web.deps.json
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\MicroservicesApp.Web.runtimeconfig.json
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\MicroservicesApp.Web.staticwebassets.runtime.json
@@ -120,7 +114,6 @@ E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
@@ -130,7 +123,14 @@ E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\MicroservicesApp.Web.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\MicroservicesApp.Web.pdb
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.csproj.AssemblyReference.cache
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.AssemblyInfoInputs.cache
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.AssemblyInfo.cs
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.csproj.CoreCompileInputs.cache
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.sourcelink.json
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.build.json
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.development.json
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.MicroservicesApp.Services.CouponAPI.Microsoft.AspNetCore.StaticWebAssets.props

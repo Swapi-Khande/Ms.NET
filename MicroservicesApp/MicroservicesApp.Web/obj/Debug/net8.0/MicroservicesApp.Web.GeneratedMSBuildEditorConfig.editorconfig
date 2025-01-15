@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/My Learnings/Ms.NET/MicroservicesApp/MicroservicesApp.Web/Views/Coupon/CouponIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENvdXBvbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My Learnings/Ms.NET/MicroservicesApp/MicroservicesApp.Web/Views/Coupon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/My Learnings/Ms.NET/MicroservicesApp/MicroservicesApp.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

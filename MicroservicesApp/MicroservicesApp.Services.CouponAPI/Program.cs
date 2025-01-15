@@ -12,12 +12,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddHttpClient();
+//builder.Services.AddHttpClient<ICouponService, CouponService>();
+
+SConstants.CouponAPIBase = builder.Configuration["ServiceUrls:CouponAPI"];
 
 builder.Services.AddScoped<IBaseService, BaseService>();
 builder.Services.AddScoped<ICouponService, CouponService>();
-
-
-SConstants.CouponAPIBase = builder.Configuration["ServiceUrls:CouponAPI"];
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
@@ -52,14 +52,14 @@ app.MapControllers();
 
 app.Run();
 
-void ApplyMigration()
-{
-    using(var scope = app.Services.CreateScope())
-    {
-        var _db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-        if(_db.Database.GetPendingMigrations().Count() > 0)
-        {
-            _db.Database.Migrate();
-        }
-    }
-}
+//void ApplyMigration()
+//{
+//    using(var scope = app.Services.CreateScope())
+//    {
+//        var _db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+//        if(_db.Database.GetPendingMigrations().Count() > 0)
+//        {
+//            _db.Database.Migrate();
+//        }
+//    }
+//}
