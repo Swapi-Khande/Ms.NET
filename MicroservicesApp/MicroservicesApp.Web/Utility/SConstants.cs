@@ -1,6 +1,6 @@
 ﻿namespace MicroservicesApp.Web.Utility
 {
-    public class Constants
+    public class SConstants
     {
         public static string CouponAPIBase { get; set; }
         public static string ProductAPIBase { get; set; }

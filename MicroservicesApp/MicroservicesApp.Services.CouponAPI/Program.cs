@@ -1,11 +1,24 @@
 using AutoMapper;
 using MicroservicesApp.Services.CouponAPI;
 using MicroservicesApp.Services.CouponAPI.Data;
+using MicroservicesApp.Web.Service;
+using MicroservicesApp.Web.Service.IService;
+using MicroservicesApp.Web.Utility;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddControllersWithViews();
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddHttpClient();
+
+builder.Services.AddScoped<IBaseService, BaseService>();
+builder.Services.AddScoped<ICouponService, CouponService>();
+
+
+SConstants.CouponAPIBase = builder.Configuration["ServiceUrls:CouponAPI"];
+
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
