@@ -14,11 +14,6 @@ namespace MicroservicesApp.Web.Controllers
             _couponService = couponService;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
         public async Task<IActionResult> CouponIndex()
         {
             List<CouponDto>? list = new();
