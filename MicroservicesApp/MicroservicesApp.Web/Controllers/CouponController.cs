@@ -1,5 +1,5 @@
-﻿using MicroservicesApp.Web.Models;
-using MicroservicesApp.Web.Service.IService;
+﻿using MicroservicesApp.Web.Service.IService;
+using MicroservicesApp.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
@@ -35,6 +35,11 @@ namespace MicroservicesApp.Web.Controllers
             }
 
             return View(list);
+        }
+
+        public async Task<IActionResult> CouponCreate()
+        {
+            return View();
         }
 
         [HttpPost]
