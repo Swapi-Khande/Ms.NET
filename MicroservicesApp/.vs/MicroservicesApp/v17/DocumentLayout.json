@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{487042C9-4CB3-43A0-93C0-09330B21D9CC}|MicroservicesApp.Services.AuthAPI\\MicroservicesApp.Services.AuthAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487042C9-4CB3-43A0-93C0-09330B21D9CC}|MicroservicesApp.Services.AuthAPI\\MicroservicesApp.Services.AuthAPI.csproj|solutionrelative:microservicesapp.services.authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{487042C9-4CB3-43A0-93C0-09330B21D9CC}|MicroservicesApp.Services.AuthAPI\\MicroservicesApp.Services.AuthAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487042C9-4CB3-43A0-93C0-09330B21D9CC}|MicroservicesApp.Services.AuthAPI\\MicroservicesApp.Services.AuthAPI.csproj|solutionrelative:microservicesapp.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487042C9-4CB3-43A0-93C0-09330B21D9CC}|MicroservicesApp.Services.AuthAPI\\MicroservicesApp.Services.AuthAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487042C9-4CB3-43A0-93C0-09330B21D9CC}|MicroservicesApp.Services.AuthAPI\\MicroservicesApp.Services.AuthAPI.csproj|solutionrelative:microservicesapp.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487042C9-4CB3-43A0-93C0-09330B21D9CC}|MicroservicesApp.Services.AuthAPI\\MicroservicesApp.Services.AuthAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.authapi\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487042C9-4CB3-43A0-93C0-09330B21D9CC}|MicroservicesApp.Services.AuthAPI\\MicroservicesApp.Services.AuthAPI.csproj|solutionrelative:microservicesapp.services.authapi\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.AuthAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MicroservicesApp.Services.AuthAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.AuthAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "MicroservicesApp.Services.AuthAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAJAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.AuthAPI\\Program.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.AuthAPI\\Program.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.AuthAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T12:03:24.281Z",
+              "WhenOpened": "2025-01-17T11:37:39.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:18:52.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:00:22.041Z",
               "EditorCaption": ""
             }
           ]

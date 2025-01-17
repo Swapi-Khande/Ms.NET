@@ -1,5 +1,21 @@
+using MicroservicesApp.Services.AuthAPI.Data;
+using MicroservicesApp.Services.AuthAPI.Models;
+using MicroservicesApp.Services.AuthAPI.Service;
+using MicroservicesApp.Services.AuthAPI.Service.IService;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
+builder.Services.Configure<JWTOptions>(builder.Configuration.GetSection("ApiSettings:JwtOptions"));
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
+builder.Services.AddScoped<IAuthService, AuthService>();
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -18,8 +34,24 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
+
 app.UseAuthorization();
 
 app.MapControllers();
 
+//ApplyMigration();
+
 app.Run();
+
+//void ApplyMigration()
+//{
+//    using(var scope = app.Services.CreateScope())
+//    {
+//        var _db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+//        if(_db.Database.GetPendingMigrations().Count() > 0)
+//        {
+//            _db.Database.Migrate();
+//        }
+//    }
+//}
