@@ -3,6 +3,7 @@ E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.AssemblyInfoInputs.cache
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.AssemblyInfo.cs
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.csproj.CoreCompileInputs.cache
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cs
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cache
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\obj\Debug\net8.0\MicroservicesApp.Services.CouponAPI.sourcelink.json
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.CouponAPI\bin\Debug\net8.0\MicroservicesApp.Web.deps.json

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WB4cYDxcMi2gcRJaBOA2ZFXmuRT4hxT1HiRh/pmKomw=",
+  "Source": "MicroservicesApp.Services.ShoppingCartAPI",
+  "BasePath": "_content/MicroservicesApp.Services.ShoppingCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

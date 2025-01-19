@@ -3,32 +3,64 @@
   "WorkspaceRootPath": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|solutionrelative:microservicesapp.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B25CE59-5404-47E9-974B-630F1E4046C8}|MicroservicesApp.Services.CouponAPI\\MicroservicesApp.Services.CouponAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25CE59-5404-47E9-974B-630F1E4046C8}|MicroservicesApp.Services.CouponAPI\\MicroservicesApp.Services.CouponAPI.csproj|solutionrelative:microservicesapp.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|solutionrelative:microservicesapp.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B25CE59-5404-47E9-974B-630F1E4046C8}|MicroservicesApp.Services.CouponAPI\\MicroservicesApp.Services.CouponAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25CE59-5404-47E9-974B-630F1E4046C8}|MicroservicesApp.Services.CouponAPI\\MicroservicesApp.Services.CouponAPI.csproj|solutionrelative:microservicesapp.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.web\\utility\\maxfilesizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|solutionrelative:microservicesapp.web\\utility\\maxfilesizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|solutionrelative:microservicesapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|solutionrelative:microservicesapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|solutionrelative:microservicesapp.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|solutionrelative:microservicesapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.shoppingcartapi\\microservicesapp.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59AF2DAC-6C49-455F-ACDC-E4A851A69765}|MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj|solutionrelative:microservicesapp.services.shoppingcartapi\\microservicesapp.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893B888A-4288-4C81-84E0-FBEA57697024}|MicroservicesApp.Services.ProductAPI\\MicroservicesApp.Services.ProductAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.productapi\\microservicesapp.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{893B888A-4288-4C81-84E0-FBEA57697024}|MicroservicesApp.Services.ProductAPI\\MicroservicesApp.Services.ProductAPI.csproj|solutionrelative:microservicesapp.services.productapi\\microservicesapp.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,93 +78,197 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MaxFileSizeAttribute.cs",
-              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Utility\\MaxFileSizeAttribute.cs",
-              "RelativeDocumentMoniker": "MicroservicesApp.Web\\Utility\\MaxFileSizeAttribute.cs",
-              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Utility\\MaxFileSizeAttribute.cs",
-              "RelativeToolTip": "MicroservicesApp.Web\\Utility\\MaxFileSizeAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.CouponAPI\\Program.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.CouponAPI\\Program.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.CouponAPI\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:45:56.382Z",
+              "WhenOpened": "2025-01-19T19:03:56.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.CouponAPI\\MappingConfig.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.CouponAPI\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:03:36.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ProductDto.cs",
-              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Models\\ProductDto.cs",
-              "RelativeDocumentMoniker": "MicroservicesApp.Web\\Models\\ProductDto.cs",
-              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Models\\ProductDto.cs",
-              "RelativeToolTip": "MicroservicesApp.Web\\Models\\ProductDto.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBAAAAAQAAAA",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:44:18.917Z",
+              "WhenOpened": "2025-01-19T18:51:05.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDetails.cshtml",
-              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeDocumentMoniker": "MicroservicesApp.Web\\Views\\Home\\ProductDetails.cshtml",
-              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeToolTip": "MicroservicesApp.Web\\Views\\Home\\ProductDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T13:40:32.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MicroservicesApp.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MicroservicesApp.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T13:39:41.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MicroservicesApp.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MicroservicesApp.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDIAAAA2AAAA",
+              "DocumentIndex": 7,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:38:45.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "MicroservicesApp.Web\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "MicroservicesApp.Web\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:38:39.003Z",
+              "WhenOpened": "2025-01-19T18:51:01.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Program.cs",
-              "RelativeDocumentMoniker": "MicroservicesApp.Web\\Program.cs",
-              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Program.cs",
-              "RelativeToolTip": "MicroservicesApp.Web\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:16:47.88Z",
+              "WhenOpened": "2025-01-19T18:50:52.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartDetailsDto.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:50:13.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\appsettings.json",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T18:49:32.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:53:46.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\Program.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:54:27.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:51:10.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:51:24.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartHeader.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:52:26.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:48:22.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MicroservicesApp.Services.ShoppingCartAPI",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj",
+              "RelativeToolTip": "MicroservicesApp.Services.ShoppingCartAPI\\MicroservicesApp.Services.ShoppingCartAPI.csproj",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T18:49:12.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MicroservicesApp.Services.ProductAPI",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ProductAPI\\MicroservicesApp.Services.ProductAPI.csproj",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.ProductAPI\\MicroservicesApp.Services.ProductAPI.csproj",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.ProductAPI\\MicroservicesApp.Services.ProductAPI.csproj",
+              "RelativeToolTip": "MicroservicesApp.Services.ProductAPI\\MicroservicesApp.Services.ProductAPI.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T18:49:03.51Z",
               "EditorCaption": ""
             }
           ]
