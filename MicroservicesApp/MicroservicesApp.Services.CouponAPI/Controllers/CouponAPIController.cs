@@ -75,6 +75,7 @@ namespace MicroservicesApp.Services.CouponAPI.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "ADMIN")]
         public ResponseDto Post([FromBody] CouponDto cDto) 
         {
             try
@@ -112,6 +113,7 @@ namespace MicroservicesApp.Services.CouponAPI.Controllers
 
         [HttpDelete]
         [Route("{id:int}")]
+        [Authorize(Roles ="ADMIN")]
         public ResponseDto Delete(int id)
         {
             try

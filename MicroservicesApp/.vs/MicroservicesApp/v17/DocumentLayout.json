@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B25CE59-5404-47E9-974B-630F1E4046C8}|MicroservicesApp.Services.CouponAPI\\MicroservicesApp.Services.CouponAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25CE59-5404-47E9-974B-630F1E4046C8}|MicroservicesApp.Services.CouponAPI\\MicroservicesApp.Services.CouponAPI.csproj|solutionrelative:microservicesapp.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|solutionrelative:microservicesapp.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487042C9-4CB3-43A0-93C0-09330B21D9CC}|MicroservicesApp.Services.AuthAPI\\MicroservicesApp.Services.AuthAPI.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487042C9-4CB3-43A0-93C0-09330B21D9CC}|MicroservicesApp.Services.AuthAPI\\MicroservicesApp.Services.AuthAPI.csproj|solutionrelative:microservicesapp.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|e:\\my learnings\\ms.net\\microservicesapp\\microservicesapp.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B83E43E3-7126-4238-B406-829C4DD415CD}|MicroservicesApp.Web\\MicroservicesApp.Web.csproj|solutionrelative:microservicesapp.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +35,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:54:36.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Web\\Service\\AuthService.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Service\\AuthService.cs",
+              "RelativeToolTip": "MicroservicesApp.Web\\Service\\AuthService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:25:24.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "MicroservicesApp.Services.AuthAPI\\Service\\AuthService.cs",
+              "ToolTip": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "MicroservicesApp.Services.AuthAPI\\Service\\AuthService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:24:53.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BaseService.cs",
               "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Web\\Service\\BaseService.cs",
               "RelativeDocumentMoniker": "MicroservicesApp.Web\\Service\\BaseService.cs",
@@ -34,12 +89,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\My Learnings\\Ms.NET\\MicroservicesApp\\MicroservicesApp.Services.CouponAPI\\Program.cs",
               "RelativeDocumentMoniker": "MicroservicesApp.Services.CouponAPI\\Program.cs",
