@@ -1,3 +1,7 @@
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\appsettings.Development.json
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\appsettings.json
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\MicroservicesApp.Services.AuthAPI.exe
@@ -42,7 +46,6 @@ E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\De
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\System.CodeDom.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -70,7 +73,6 @@ E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\De
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -92,7 +94,6 @@ E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\De
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
@@ -109,7 +110,6 @@ E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\De
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 E:\My Learnings\Ms.NET\MicroservicesApp\MicroservicesApp.Services.AuthAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
