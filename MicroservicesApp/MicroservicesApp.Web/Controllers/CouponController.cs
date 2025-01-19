@@ -1,5 +1,5 @@
-﻿using MicroservicesApp.Web.Service.IService;
-using MicroservicesApp.Web.Models;
+﻿using MicroservicesApp.Web.Models;
+using MicroservicesApp.Web.Service.IService;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
@@ -7,12 +7,12 @@ namespace MicroservicesApp.Web.Controllers
 {
     public class CouponController : Controller
     {
-        public readonly ICouponService _couponService;
-
+        private readonly ICouponService _couponService;
         public CouponController(ICouponService couponService)
         {
             _couponService = couponService;
         }
+
 
         public async Task<IActionResult> CouponIndex()
         {
@@ -89,5 +89,7 @@ namespace MicroservicesApp.Web.Controllers
             }
             return View(couponDto);
         }
+
     }
 }
+
