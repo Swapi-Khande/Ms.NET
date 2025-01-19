@@ -2,12 +2,14 @@
 using MicroservicesApp.Services.CouponAPI.Data;
 using MicroservicesApp.Services.CouponAPI.Models;
 using MicroservicesApp.Services.CouponAPI.Models.Dto;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MicroservicesApp.Services.CouponAPI.Controllers
 {
     [Route("api/coupon")]
     [ApiController]
+    [Authorize]
     public class CouponAPIController : ControllerBase
     {
         private readonly AppDbContext _db;
